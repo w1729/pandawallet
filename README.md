@@ -1,4 +1,5 @@
-# PANDA WALLET (click->click->click->your gateway to blockchain is ready)
+# PANDA WALLET 
+(click->click->click->your gateway to blockchain is ready)
 
 The Panda wallet simplifies the user onboarding experience through a smooth one-click process. Leveraging the functionalities of account abstraction and passkeys, users can easily generate passkey credentials, set up a smart account, and deploy—all with just a single click on their smartphone or computer. The wallet operates discreetly, ensuring a seamless and hassle-free experience for users.
 
